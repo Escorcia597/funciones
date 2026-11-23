@@ -1,0 +1,1386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261118000100E7DZIY</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261118000100H632MB</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Matemáticas 3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>César A. Escorcia Santander</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1795411085300</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>41785087-c75d-4c6c-b3e1-898722d196b9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Teorema de Pitágoras</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Teorema de Pitágoras</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Teorema de Pitágoras</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. Teorema de Pitágoras</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>41785087-c75d-4c6c-b3e1-898722d196b9</odePageId>
+      <odeBlockId>block-mwlm995z-6bscsjswq</odeBlockId>
+      <blockName>Teorema de Pitágoras</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>41785087-c75d-4c6c-b3e1-898722d196b9</odePageId>
+          <odeBlockId>block-mwlm995z-6bscsjswq</odeBlockId>
+          <odeIdeviceId>idevice-1794975817893-4ck3npatg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estudia el video tomando las notas pertinentes en tu cuaderno. Una vez concluido el video repite los ejercicios en una hoja reciclada para verificar que los hayas comprendido.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_fkwjl3502"><iframe width="300" height="150" src="https://www.youtube.com/embed/sulCHvvpHY0?si=IFi8bjMMHWYlwlw5" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><a href="César A. Escorcia Santander" target="_blank" class="author" rel="noopener">César Alejandro Escorcia Santander</a> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior derecha para continuar con los ejercicios.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794975817893-4ck3npatg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estudia el video tomando las notas pertinentes en tu cuaderno. Una vez concluido el video repite los ejercicios en una hoja reciclada para verificar que los hayas comprendido.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_fkwjl3502\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/sulCHvvpHY0?si=IFi8bjMMHWYlwlw5\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><a href=\"César A. Escorcia Santander\" target=\"_blank\" class=\"author\" rel=\"noopener\">César Alejandro Escorcia Santander</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior derecha para continuar con los ejercicios.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwlmjstm-55enbpl3o</odePageId>
+  <odeParentPageId>41785087-c75d-4c6c-b3e1-898722d196b9</odeParentPageId>
+  <pageName>Actividad 1-1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 1-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwlmjstm-55enbpl3o</odePageId>
+      <odeBlockId>block-mwlmke4j-ca0v4nzhj</odeBlockId>
+      <blockName>Teorema de Pitágoras</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwlmjstm-55enbpl3o</odePageId>
+          <odeBlockId>block-mwlmke4j-ca0v4nzhj</odeBlockId>
+          <odeIdeviceId>idevice-1794976337538-sa8hp4o16</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794976337538-sa8hp4o16" data-evaluationb="false" data-evaluationid="048951ca-75bb-4c0e-91e3-1ae0c018699a"></div>
+            <div id="frmMainContainer-idevice-1794976337538-sa8hp4o16" class="form-IDevice" data-id="idevice-1794976337538-sa8hp4o16">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><h2><span style="color: #843fa1;">Responde a las preguntas del cuestionario</span></h2></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794976337538-sa8hp4o16">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794976337538-sa8hp4o16" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794976337538-sa8hp4o16" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794976337538-sa8hp4o16" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794976337538-sa8hp4o16" > </div>
+                        <div id="frmCover-idevice-1794976337538-sa8hp4o16" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794976337538-sa8hp4o16" class="form-results-container inline">
+                        <div id="form-score-idevice-1794976337538-sa8hp4o16" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794976337538-sa8hp4o16" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794976337538-sa8hp4o16" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794976337538-sa8hp4o16" />
+                        <input id="form-button-reset-idevice-1794976337538-sa8hp4o16" type="button" value="Reiniciar"
+                            data-id="idevice-1794976337538-sa8hp4o16" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                <div class="form-instructions"><p>Sí al realizar tus ejercicios obtuviste más de 8 puntos pasa a la siguiente lección dando clic en siguiente (flecha) en la parte superior derecha o regresa al video anterior para volver a estudiar el tema.</p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"><img src="{{context_path}}/content/resources/tri1.png" width="211" height="125" alt="Triángulo rectángulo" style="display: block; margin-left: auto; margin-right: auto;"><img src="{{context_path}}/content/resources/tri3.png" width="180" height="157" alt="Triángulo rectángulo" style="display: block; margin-left: auto; margin-right: auto;"><img src="{{context_path}}/content/resources/tri2.png" width="206" height="154" alt="Triángulo rectángulo"><img src="{{context_path}}/content/resources/tri4.png" width="179" height="180" alt="Triángulo rectángulo" style="display: block; margin-left: auto; margin-right: auto;"><img src="{{context_path}}/content/resources/tri5.png" width="144" height="172" alt="Triángulo rectángulo" style="display: block; margin-left: auto; margin-right: auto;"><img src="{{context_path}}/content/resources/tri4.png" width="170" height="171" alt="Triángulo rectángulo" style="display: block; margin-left: auto; margin-right: auto;"><a href="{{context_path}}/content/resources/tri1.png" class="js-hidden form-media-img">0</a><a href="{{context_path}}/content/resources/tri3.png" class="js-hidden form-media-img">1</a><a href="{{context_path}}/content/resources/tri2.png" class="js-hidden form-media-img">2</a><a href="{{context_path}}/content/resources/tri4.png" class="js-hidden form-media-img">3</a><a href="{{context_path}}/content/resources/tri5.png" class="js-hidden form-media-img">4</a></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794976337538-sa8hp4o16","evaluation":false,"evaluationID":"048951ca-75bb-4c0e-91e3-1ae0c018699a","passScoreMode":"custom","passScoreCustom":8,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba, regresa a estudiar el video","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794976337538-sa8hp4o16","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<h2><span style=\"color: #843fa1;\">Responde a las preguntas del cuestionario</span></h2>","questionsData":[{"id":"1794977703550-O6QZA","activityType":"selection","baseText":"<p>Escribe el teorema de Pitágoras para el siguiente triángulo.</p>\n<p><img src=\"{{context_path}}/content/resources/tri1.png\" width=\"211\" height=\"125\" alt=\"Triángulo rectángulo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(c^2+a^2=b^2\\)"],[false,"\\(c^2+b^2=a^2\\)"],[true,"\\(b^2+a^2=c^2\\)"],[false,"\\(c+a=b^2\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794978826364-X19GT","activityType":"selection","baseText":"<p>Calcula el valor de \"a\" en:</p>\n<p><img src=\"{{context_path}}/content/resources/tri3.png\" width=\"180\" height=\"157\" alt=\"Triángulo rectángulo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"85"],[true,"9.22"],[false,"5.1"],[false,"12"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794978284470-XEAAA","activityType":"selection","baseText":"<p>Escribe el Teorema de Pitágoras para el siguiente triángulo:</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/tri2.png\" width=\"206\" height=\"154\" alt=\"Triángulo rectángulo\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(m^2=n^2+o^2\\)"],[false,"\\(n^2=m^2+o^2\\)"],[false,"\\(o^2=n^2+m^2\\)"],[false,"\\(m=n^2+o^2\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794979320251-YBR4W","activityType":"selection","baseText":"<p>Encuentra el valor de x en el siguiente triángulo:</p>\n<p><img src=\"{{context_path}}/content/resources/tri4.png\" width=\"179\" height=\"180\" alt=\"Triángulo rectángulo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"19"],[true,"9.75"],[false,"3.16"],[false,"6.16"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794979787668-B93DI","activityType":"selection","baseText":"<p>Encuentra el valor que falta en el triángulo:</p>\n<p><img src=\"{{context_path}}/content/resources/tri5.png\" width=\"144\" height=\"172\" alt=\"Triángulo rectángulo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"4.79"],[false,"3.74"],[false,"6.78"],[true,"12.69"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1794980064443-BNWC0","activityType":"selection","baseText":"<p>Escribe el Teorema de Pitágoras para el siguiente triángulo:</p>\n<p><img src=\"{{context_path}}/content/resources/tri4.png\" width=\"170\" height=\"171\" alt=\"Triángulo rectángulo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(12^2=x^2+7^2\\)"],[false,"\\(x^2=12^2+7^2\\)"],[false,"\\(7^2=x^2+12^2\\)"],[false,"\\(12^2=x^2-7^2\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p>Sí al realizar tus ejercicios obtuviste más de 8 puntos pasa a la siguiente lección dando clic en siguiente (flecha) en la parte superior derecha o regresa al video anterior para volver a estudiar el tema.</p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwlowwwg-ths49l919</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Grados a radianes</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Grados a radianes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Grados a radianes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwlowwwg-ths49l919</odePageId>
+      <odeBlockId>block-mwlox1tt-xl3pp5d0m</odeBlockId>
+      <blockName>Conversiones</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwlowwwg-ths49l919</odePageId>
+          <odeBlockId>block-mwlox1tt-xl3pp5d0m</odeBlockId>
+          <odeIdeviceId>idevice-1794980287360-n3migo3l8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estudia el siguiente video tomando las notas necesarias en tu cuaderno (como si estuvieras en clase presencial).</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_wnwqc4gkq"><iframe width="300" height="150" src="https://www.youtube.com/embed/RJnFTAS6Gy0?si=z0xEO6l4cvJn9uJU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">César Alejandro Escorcia Santander</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior izquierda para realizar tus ejercicios de práctica.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794980287360-n3migo3l8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estudia el siguiente video tomando las notas necesarias en tu cuaderno (como si estuvieras en clase presencial).</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_wnwqc4gkq\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/RJnFTAS6Gy0?si=z0xEO6l4cvJn9uJU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">César Alejandro Escorcia Santander</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior izquierda para realizar tus ejercicios de práctica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwlpee4g-6bx6qq69u</odePageId>
+  <odeParentPageId>page-mwlowwwg-ths49l919</odeParentPageId>
+  <pageName>Actividad 2-1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 2-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwlpee4g-6bx6qq69u</odePageId>
+      <odeBlockId>block-mwlpeg7u-h6m64z3t2</odeBlockId>
+      <blockName>Conversiones</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwlpee4g-6bx6qq69u</odePageId>
+          <odeBlockId>block-mwlpeg7u-h6m64z3t2</odeBlockId>
+          <odeIdeviceId>idevice-1794981099161-78ig56jl6</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1794981099161-78ig56jl6" data-evaluationb="false" data-evaluationid="048951ca-75bb-4c0e-91e3-1ae0c018699a"></div>
+            <div id="frmMainContainer-idevice-1794981099161-78ig56jl6" class="form-IDevice" data-id="idevice-1794981099161-78ig56jl6">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><h2><span style="color: #236fa1;">Responde a las preguntas del cuestionario</span></h2></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1794981099161-78ig56jl6">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1794981099161-78ig56jl6" style="display:none;">
+                      <button  id="frmStartGame-idevice-1794981099161-78ig56jl6" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1794981099161-78ig56jl6" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1794981099161-78ig56jl6" > </div>
+                        <div id="frmCover-idevice-1794981099161-78ig56jl6" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1794981099161-78ig56jl6" class="form-results-container inline">
+                        <div id="form-score-idevice-1794981099161-78ig56jl6" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1794981099161-78ig56jl6" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1794981099161-78ig56jl6" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1794981099161-78ig56jl6" />
+                        <input id="form-button-reset-idevice-1794981099161-78ig56jl6" type="button" value="Reiniciar"
+                            data-id="idevice-1794981099161-78ig56jl6" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794981099161-78ig56jl6","evaluation":false,"evaluationID":"048951ca-75bb-4c0e-91e3-1ae0c018699a","passScoreMode":"custom","passScoreCustom":8,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba, regresa a estudiar el video","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1794981099161-78ig56jl6","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<h2><span style=\"color: #236fa1;\">Responde a las preguntas del cuestionario</span></h2>","questionsData":[{"id":"1794981401914-D9CY6","activityType":"selection","baseText":"<p>¿Cuál es la equivalencia que usamos para transformar de grados a radianes y viceversa?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"360° = π rad"],[true,"π rad = 180°"],[false,"2π rad = 180°"],[false,"π rad = 90°"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795146750509-64ZIL","activityType":"selection","baseText":"<p>\\(\\frac{16π°}{7}=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(\\frac{π^2}{315}rad\\)"],[false,"\\(\\frac{4π}{315}rad\\)"],[false,"\\(\\frac{315}{4π^2}rad\\)"],[true,"\\(\\frac{4π^2}{315}rad\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795147076167-BBM43","activityType":"selection","baseText":"<p>\\(\\frac{15π}{8}rad=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(\\frac{675°}{2}\\)"],[false,"\\(\\frac{675}{2}rad\\)"],[false,"\\(\\frac{π°}{96}\\)"],[false,"\\(\\frac{π}{96}rad\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795147543887-653WZ","activityType":"selection","baseText":"<p>\\(\\frac{15°}{9π}=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(108rad\\)"],[true,"\\(\\frac{1}{108}rad\\)"],[false,"\\(\\frac{300}{π}rad\\)"],[false,"\\(\\frac{1°}{108}\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795147915274-I72VL","activityType":"selection","baseText":"<p>\\(\\frac{19}{8π}rad=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(\\frac{855}{2π^2}rad\\)"],[false,"\\(\\frac{19π}{1440}rad\\)"],[true,"\\(\\frac{855°}{2π^2}\\)"],[false,"\\(\\frac{19π°}{1440}\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795148256757-WZ6OF","activityType":"selection","baseText":"<p>\\(\\frac{17°}{19}=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(\\frac{17π}{3420}rad\\)"],[false,"\\(\\frac{3060}{19π}rad\\)"],[false,"\\(\\frac{17π°}{3420}\\)"],[false,"\\(\\frac{3060°}{19π}\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795148508900-Q4Y8F","activityType":"selection","baseText":"<p>\\(\\frac{5}{8}rad=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(\\frac{225}{2π}rad\\)"],[false,"\\(\\frac{π°}{288}\\)"],[false,"\\(\\frac{π}{288}rad\\)"],[true,"\\(\\frac{225°}{2π}\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795148755311-JB312","activityType":"selection","baseText":"<p>\\(25°=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(\\frac{4500}{π}rad\\)"],[false,"\\(\\frac{5π°}{36}\\)"],[true,"\\(\\frac{5π}{36}rad\\)"],[false,"\\(\\frac{4500°}{π}\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795148996710-XVKDT","activityType":"selection","baseText":"<p>\\(30rad=\\)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(\\frac{π}{6}rad\\)"],[true,"\\(\\frac{5400°}{π}\\)"],[false,"\\(\\frac{π°}{6}\\)"],[false,"\\(\\frac{5400}{π}rad\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwohe8m2-1xyfpl0le</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Razones trigonométricas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Razones trigonométricas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Razones trigonométricas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Razones trigonométricas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwohe8m2-1xyfpl0le</odePageId>
+      <odeBlockId>block-mwohednj-nq2bg6qci</odeBlockId>
+      <blockName>Razones trigonométricas</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwohe8m2-1xyfpl0le</odePageId>
+          <odeBlockId>block-mwohednj-nq2bg6qci</odeBlockId>
+          <odeIdeviceId>idevice-1795149057438-3ktj4ckl6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estudia el video tomando las notas necesaria en tu cuaderno.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_810zv4aau"><iframe width="300" height="150" src="https://www.youtube.com/embed/qNcELrUIKBQ?si=oHViDz3gSerG2Ksc" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">César Alejandro Escorcia Santander</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior derecha para realizar la actividad correspondiente:</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795149057438-3ktj4ckl6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estudia el video tomando las notas necesaria en tu cuaderno.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_810zv4aau\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/qNcELrUIKBQ?si=oHViDz3gSerG2Ksc\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">César Alejandro Escorcia Santander</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior derecha para realizar la actividad correspondiente:</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwohort3-pcj3ga2yg</odePageId>
+  <odeParentPageId>page-mwohe8m2-1xyfpl0le</odeParentPageId>
+  <pageName>Actividad 3-1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 3-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwohort3-pcj3ga2yg</odePageId>
+      <odeBlockId>block-mwohowfq-3pr8qpmhh</odeBlockId>
+      <blockName>Razones trigonométricas</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwohort3-pcj3ga2yg</odePageId>
+          <odeBlockId>block-mwohowfq-3pr8qpmhh</odeBlockId>
+          <odeIdeviceId>idevice-1795149548341-otmmibqip</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1795149548341-otmmibqip" data-evaluationb="false" data-evaluationid="ddce1b9c-fe29-483d-bea8-20760ce61c9b"></div>
+            <div id="frmMainContainer-idevice-1795149548341-otmmibqip" class="form-IDevice" data-id="idevice-1795149548341-otmmibqip">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1795149548341-otmmibqip">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1795149548341-otmmibqip" style="display:none;">
+                      <button  id="frmStartGame-idevice-1795149548341-otmmibqip" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1795149548341-otmmibqip" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1795149548341-otmmibqip" > </div>
+                        <div id="frmCover-idevice-1795149548341-otmmibqip" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1795149548341-otmmibqip" class="form-results-container inline">
+                        <div id="form-score-idevice-1795149548341-otmmibqip" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1795149548341-otmmibqip" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1795149548341-otmmibqip" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1795149548341-otmmibqip" />
+                        <input id="form-button-reset-idevice-1795149548341-otmmibqip" type="button" value="Reiniciar"
+                            data-id="idevice-1795149548341-otmmibqip" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                <div class="form-instructions"><p>Una vez terminada tu actividad si obtuviste más de 8 puntos da clic en siguiente (flecha) en la parte superior derecha para seguir con el tema siguiente.</p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"><img src="{{context_path}}/content/resources/t1.png" width="136" height="163" alt="Triángulo rectángulo" style="display: block; margin-left: auto; margin-right: auto;"><img src="{{context_path}}/content/resources/t1.png" width="139" height="168" alt="Triángulo rectángulo" style="display: block; margin-left: auto; margin-right: auto;"><img src="{{context_path}}/content/resources/t2.png" width="133" height="172" alt="Triángulo rectángulo" style="display: block; margin-left: auto; margin-right: auto;"><img src="{{context_path}}/content/resources/t3.png" width="103" height="130" alt="Triángulo rectángulo" style="display: block; margin-left: auto; margin-right: auto;"><a href="{{context_path}}/content/resources/t1.png" class="js-hidden form-media-img">0</a><a href="{{context_path}}/content/resources/t2.png" class="js-hidden form-media-img">1</a><a href="{{context_path}}/content/resources/t3.png" class="js-hidden form-media-img">2</a></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795149548341-otmmibqip","evaluation":false,"evaluationID":"ddce1b9c-fe29-483d-bea8-20760ce61c9b","passScoreMode":"custom","passScoreCustom":8,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba, regresa a estudiar el video","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1795149548341-otmmibqip","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1795149646791-F613S","activityType":"selection","baseText":"<p>¿Es lo mismo razón trigonométrica que función trigonométrica?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Verdadero"],[false,"Falso"],[false,"No tienen nada que ver"],[false,"Son diferentes"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795150167996-W37PW","activityType":"selection","baseText":"<p>¿Cuál es la definición de la razón coseno?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Es la razón entre el cateto opuesto y la hipotenusa"],[false,"Es la razón entre la hipotenusa y el cateto adyacente"],[true,"Es la razón entre el cateto adyacente y la hipotenusa"],[false,"Es la razón entre la hipotenusa y el cateto opuesto"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795150312595-JTHTA","activityType":"selection","baseText":"<p>¿Cuál es la definición de la razón cosecante?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Es la razón entre el cateto opuesto y el cateto adyacente"],[false,"Es la razón entre el cateto adyacente y la hipotenusa"],[false,"Es la razón entre la hipotenusa y el cateto adyacente"],[true,"Es la razón entre la hipotenusa y el cateto opuesto"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795238753190-4FVJJ","activityType":"selection","baseText":"<p>De acuerdo al siguiente triángulo indica quién es ca, co, hip y ángulo:</p>\n<p><img src=\"{{context_path}}/content/resources/t1.png\" width=\"136\" height=\"163\" alt=\"Triángulo rectángulo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"co=m; ca=o; hip=n; ∠= α"],[false,"co= α; ca=o; hip=n; ∠= m"],[false,"co=m; ca=n; hip=o; ∠= α"],[false,"co=m; ca= α; hip=n; ∠= o"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795239081124-0IT1G","activityType":"selection","baseText":"<p>Interpreta las tres primeras razones trigonométricas para:</p>\n<p><img src=\"{{context_path}}/content/resources/t1.png\" width=\"139\" height=\"168\" alt=\"Triángulo rectángulo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(senα=\\frac{m}{m}; \\hspace{0.5cm}  cosα=\\frac{o}{n}; \\hspace{0.5cm}  tanα=\\frac{o}{m}\\)"],[false,"\\(senα=\\frac{m}{n};   \\hspace{0.5cm} cosα=\\frac{n}{o};  \\hspace{0.5cm} tanα=\\frac{m}{o}\\)"],[true,"\\(senα=\\frac{m}{n};   \\hspace{0.5cm} cosα=\\frac{o}{n};  \\hspace{0.5cm} tanα=\\frac{m}{o}\\)"],[false,"\\(senα=\\frac{m}{n};   \\hspace{0.5cm} cosα=\\frac{o}{n};  \\hspace{0.5cm} tanα=\\frac{o}{m}\\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795240425968-MEDCR","activityType":"selection","baseText":"<p>Interpreta las últimas tres funciones trigonométricas de: </p>\n<p><img src=\"{{context_path}}/content/resources/t2.png\" width=\"133\" height=\"172\" alt=\"Triángulo rectángulo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(senα=\\frac{5}{7}; \\hspace{0.5cm} cosα=\\frac{7}{5}; \\hspace{0.5cm} tanα=\\frac{\\sqrt{74}}{7} \\)"],[true,"\\(cotα=\\frac{5}{7}; \\hspace{0.5cm} secα=\\frac{7}{5}; \\hspace{0.5cm} cscα=\\frac{\\sqrt{74}}{7} \\)"],[false,"\\(senα=\\frac{5}{7}; \\hspace{0.5cm} cosα=\\frac{\\sqrt{74}}{5}; \\hspace{0.5cm} tanα=\\frac{\\sqrt{74}}{7} \\)"],[false,"\\(cotα=\\frac{5}{7}; \\hspace{0.5cm} secα=\\frac{\\sqrt{74}}{5}; \\hspace{0.5cm} cscα=\\frac{\\sqrt{74}}{7} \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795241064730-2ICDL","activityType":"selection","baseText":"<p>¿Cuál es la definición de la razón tangente?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Es la razón entre el cateto adyacente y la hipotenusa"],[false,"Es la razón entre el cateto opuesto y la hipotenusa"],[true,"Es la razón entre el cateto opuesto y el cateto adyacente"],[false,"Es la razón entre la hipotenusa y el cateto opuesto"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795385021277-ZKTGD","activityType":"selection","baseText":"<p>Determina las tres primeras razones trigonométricas de: </p>\n<p><img src=\"{{context_path}}/content/resources/t3.png\" width=\"103\" height=\"130\" alt=\"Triángulo rectángulo\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\( cotα = \\frac{3}{4}; \\hspace{0.5cm} secα=\\frac{4}{5}; \\hspace{0.5cm} cscα=\\frac{3}{5} \\)"],[false,"\\( cotα = \\frac{4}{3}; \\hspace{0.5cm} secα=\\frac{5}{4}; \\hspace{0.5cm} cscα=\\frac{5}{3} \\)"],[true,"\\( senα = \\frac{3}{5}; \\hspace{0.5cm} cosα=\\frac{4}{5}; \\hspace{0.5cm} tanα=\\frac{3}{4} \\)"],[false,"\\( senα = \\frac{5}{3}; \\hspace{0.5cm} cosα=\\frac{4}{5}; \\hspace{0.5cm} tanα=\\frac{4}{3} \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p>Una vez terminada tu actividad si obtuviste más de 8 puntos da clic en siguiente (flecha) en la parte superior derecha para seguir con el tema siguiente.</p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwq0xzfm-30mxnzwty</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Pendiente de una recta</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Pendiente de una recta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Pendiente de una recta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwq0xzfm-30mxnzwty</odePageId>
+      <odeBlockId>block-mwq0y2jj-5uq5lg1g4</odeBlockId>
+      <blockName>Pendiente de una recta</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwq0xzfm-30mxnzwty</odePageId>
+          <odeBlockId>block-mwq0y2jj-5uq5lg1g4</odeBlockId>
+          <odeIdeviceId>idevice-1795242355037-ttcq8pfnr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estudia el video pausando cuando sea necesario para tomar las notas en tu cuaderno como si estuvieras en clase presencial.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 300px;" id="fig_fv3ilsihe"><iframe width="300" height="150" src="https://www.youtube.com/embed/krSB40kulTU?si=fPRBrmfPFsYZiO-h" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">César Alejandro Escorcia Santander</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior derecha.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795242355037-ttcq8pfnr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estudia el video pausando cuando sea necesario para tomar las notas en tu cuaderno como si estuvieras en clase presencial.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 300px;\" id=\"fig_fv3ilsihe\"><iframe width=\"300\" height=\"150\" src=\"https://www.youtube.com/embed/krSB40kulTU?si=fPRBrmfPFsYZiO-h\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">César Alejandro Escorcia Santander</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior derecha.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwq17bcc-splulm95e</odePageId>
+  <odeParentPageId>page-mwq0xzfm-30mxnzwty</odeParentPageId>
+  <pageName>Actividad 4-1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 4-1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwq17bcc-splulm95e</odePageId>
+      <odeBlockId>block-mwq17d9r-xorzvcs52</odeBlockId>
+      <blockName>Pendiente de una recta</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwq17bcc-splulm95e</odePageId>
+          <odeBlockId>block-mwq17d9r-xorzvcs52</odeBlockId>
+          <odeIdeviceId>idevice-1795242788846-q64wc01nc</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1795242788846-q64wc01nc" data-evaluationb="false" data-evaluationid="ff607b3a-9328-4c3f-b77c-ec0b24ec15c6"></div>
+            <div id="frmMainContainer-idevice-1795242788846-q64wc01nc" class="form-IDevice" data-id="idevice-1795242788846-q64wc01nc">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1795242788846-q64wc01nc">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1795242788846-q64wc01nc" style="display:none;">
+                      <button  id="frmStartGame-idevice-1795242788846-q64wc01nc" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1795242788846-q64wc01nc" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1795242788846-q64wc01nc" > </div>
+                        <div id="frmCover-idevice-1795242788846-q64wc01nc" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1795242788846-q64wc01nc" class="form-results-container inline">
+                        <div id="form-score-idevice-1795242788846-q64wc01nc" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1795242788846-q64wc01nc" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1795242788846-q64wc01nc" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1795242788846-q64wc01nc" />
+                        <input id="form-button-reset-idevice-1795242788846-q64wc01nc" type="button" value="Reiniciar"
+                            data-id="idevice-1795242788846-q64wc01nc" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                <div class="form-instructions"><p>Si obtuviste más de 8 puntos da clic en siguiente (flecha) en la parte superior derecha para continuar con el tema siguiente</p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795242788846-q64wc01nc","evaluation":false,"evaluationID":"ff607b3a-9328-4c3f-b77c-ec0b24ec15c6","passScoreMode":"custom","passScoreCustom":8,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba, regresa a estudiar el video","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1795242788846-q64wc01nc","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1795242926563-O0PLU","activityType":"selection","baseText":"<p>Calcula la pendiente de la recta: 3x - 7y - 4 = 0</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\(m=\\frac{3}{7} \\)"],[false,"\\(m=-\\frac{3}{7} \\)"],[false,"\\(m=\\frac{7}{3} \\)"],[false,"\\(m=-\\frac{7}{3} \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795243135453-JAKZM","activityType":"selection","baseText":"<p>Calcula la pendiente de la recta que pasa por los puntos: (2, -5) y (-5, 6)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(m=\\frac{7}{11} \\)"],[true,"\\(m=\\frac{11}{7} \\)"],[false,"\\(m=-\\frac{7}{11} \\)"],[false,"\\(m=-\\frac{11}{7} \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795377616392-YGFKO","activityType":"selection","baseText":"<p>Encuentra la pendiente de la recta: 5x + 15y+3 = 0</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\( m=\\frac{1}{3} \\)"],[false,"\\( m=-\\frac{15}{5} \\)"],[false,"\\( m=\\frac{15}{5} \\)"],[true,"\\( m=-\\frac{1}{3} \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795377754620-DL5T1","activityType":"selection","baseText":"<p>Encuentra la ecuación de la recta que pasa por los puntos: (5, 7) y (3, 2)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\( m=-\\frac{3}{4} \\)"],[false,"\\( m=\\frac{4}{3} \\)"],[true,"\\( m=\\frac{3}{4} \\)"],[false,"\\( m=-\\frac{4}{3} \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795384342980-XJOFZ","activityType":"selection","baseText":"<p>Determina la pendiente de la recta: -3x - 7y + 5 = 0</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\(m=\\frac{7}{3} \\)"],[true,"\\(m=-\\frac{3}{7} \\)"],[false,"\\(m=-\\frac{7}{3} \\)"],[false,"\\(m=\\frac{3}{7} \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795384482028-K4ITB","activityType":"selection","baseText":"<p>Determina la ecuación de la recta que pasa por: (-3, -5) y (-2,-8)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\( m = -3 \\)"],[false,"\\( m = -\\frac{1}{3} \\)"],[false,"\\( m = \\frac{1}{3} \\)"],[false,"\\( m = 3 \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p>Si obtuviste más de 8 puntos da clic en siguiente (flecha) en la parte superior derecha para continuar con el tema siguiente</p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwse3pnx-my59jtp3v</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Distancia entre dos puntos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Distancia entre dos puntos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Distancia entre dos puntos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwse3pnx-my59jtp3v</odePageId>
+      <odeBlockId>block-mwse3u8u-el1ow9uas</odeBlockId>
+      <blockName>Distancia entre dos puntos</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwse3pnx-my59jtp3v</odePageId>
+          <odeBlockId>block-mwse3u8u-el1ow9uas</odeBlockId>
+          <odeIdeviceId>idevice-1795385391581-lm3o7ok52</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estudia el video, tomando los apuntes necesarios en tu cuaderno, puedes pausar el video para ir tomando tus apuntes.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_7uwzig58a"><iframe width="560" height="314" src="https://www.youtube.com/embed/sv1coV-tViQ?si=5COWzRdd_txZu28P" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">César Alejandro Escorcia Santander</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior derecha y continua con tu actividad de evaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795385391581-lm3o7ok52","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estudia el video, tomando los apuntes necesarios en tu cuaderno, puedes pausar el video para ir tomando tus apuntes.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_7uwzig58a\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/sv1coV-tViQ?si=5COWzRdd_txZu28P\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">César Alejandro Escorcia Santander</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez comprendido el tema da clic en siguiente (flecha) en la parte superior derecha y continua con tu actividad de evaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwse7zkh-u1i52jxq6</odePageId>
+  <odeParentPageId>page-mwse3pnx-my59jtp3v</odeParentPageId>
+  <pageName>Actividad 5.1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 5.1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 5.1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwse7zkh-u1i52jxq6</odePageId>
+      <odeBlockId>block-mwse84cf-omwklo9w9</odeBlockId>
+      <blockName>Distancia entre puntos</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwse7zkh-u1i52jxq6</odePageId>
+          <odeBlockId>block-mwse84cf-omwklo9w9</odeBlockId>
+          <odeIdeviceId>idevice-1795385591294-sa4u8sm09</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1795385591294-sa4u8sm09" data-evaluationb="false" data-evaluationid="fdde1aca-c801-4a52-a44f-7240ab38484b"></div>
+            <div id="frmMainContainer-idevice-1795385591294-sa4u8sm09" class="form-IDevice" data-id="idevice-1795385591294-sa4u8sm09">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1795385591294-sa4u8sm09">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1795385591294-sa4u8sm09" style="display:none;">
+                      <button  id="frmStartGame-idevice-1795385591294-sa4u8sm09" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1795385591294-sa4u8sm09" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1795385591294-sa4u8sm09" > </div>
+                        <div id="frmCover-idevice-1795385591294-sa4u8sm09" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1795385591294-sa4u8sm09" class="form-results-container inline">
+                        <div id="form-score-idevice-1795385591294-sa4u8sm09" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1795385591294-sa4u8sm09" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1795385591294-sa4u8sm09" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1795385591294-sa4u8sm09" />
+                        <input id="form-button-reset-idevice-1795385591294-sa4u8sm09" type="button" value="Reiniciar"
+                            data-id="idevice-1795385591294-sa4u8sm09" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795385591294-sa4u8sm09","evaluation":false,"evaluationID":"fdde1aca-c801-4a52-a44f-7240ab38484b","passScoreMode":"custom","passScoreCustom":8,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba, regresa a estudiar el video","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1795385591294-sa4u8sm09","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1795385819515-IFKGG","activityType":"selection","baseText":"<p>Calcula la distancia de (5, -3) a (-7, 2): </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\( d= \\sqrt{13} \\)"],[true,"\\( d= 13 \\)"],[false,"\\( d= -13 \\)"],[false,"\\( d=- \\sqrt{13} \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795386060320-6HHMA","activityType":"selection","baseText":"<p>Encuentra la distancia de M = (5, 7) a N=(9, 2): </p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\( d(M,N)=\\sqrt{41} \\)"],[false,"\\( d(M,N)=\\sqrt{13} \\)"],[false,"\\( d(M,N)=-\\sqrt{41} \\)"],[false,"\\( d(M,N)=-\\sqrt{13} \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795386514226-LFYF1","activityType":"selection","baseText":"<p>Determina la distancia de: A(-4, -4) a B(-7, -8)</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\( d(A,B)= 5 \\)"],[false,"\\( d(A,B)= \\sqrt{5} \\)"],[false,"\\( d(A,B)=- \\sqrt{5} \\)"],[true,"\\( d(A,B)= 25 \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwstexd2-6phzz0jdl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Funciones</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Funciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwstexd2-6phzz0jdl</odePageId>
+      <odeBlockId>block-mwstf13y-i02rbp5cz</odeBlockId>
+      <blockName>Funciones</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwstexd2-6phzz0jdl</odePageId>
+          <odeBlockId>block-mwstf13y-i02rbp5cz</odeBlockId>
+          <odeIdeviceId>idevice-1795411107934-40p8bh77v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Estudia el video tomando los apuntes necesarios en tu cuaderno.</p>
+<figure class="exe-figure exe-media position-center license-standard-youtube" style="width: 560px;" id="fig_f59j3fa8u"><iframe width="560" height="314" src="https://www.youtube.com/embed/uKrweW8ujhw" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">César Alejandro Escorcia Santander</span> <span class="license"><span class="sep">(</span><a href="https://www.youtube.com/static?template=terms" rel="license nofollow noopener" target="_blank">Licencia de YouTube estándar</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez comprendido el tema da clic en SIGUIENTE (flecha) en la parte superior derecha para continuar con tu actividad de autoevaluación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795411107934-40p8bh77v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Estudia el video tomando los apuntes necesarios en tu cuaderno.</p>\n<figure class=\"exe-figure exe-media position-center license-standard-youtube\" style=\"width: 560px;\" id=\"fig_f59j3fa8u\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/uKrweW8ujhw\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">César Alejandro Escorcia Santander</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"https://www.youtube.com/static?template=terms\" rel=\"license nofollow noopener\" target=\"_blank\">Licencia de YouTube estándar</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez comprendido el tema da clic en SIGUIENTE (flecha) en la parte superior derecha para continuar con tu actividad de autoevaluación.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwstjmaa-uc0pmna74</odePageId>
+  <odeParentPageId>page-mwstexd2-6phzz0jdl</odeParentPageId>
+  <pageName>Actividad 6-1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividad 6-1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwstjmaa-uc0pmna74</odePageId>
+      <odeBlockId>block-mwstjo94-phflvh7re</odeBlockId>
+      <blockName>Funciones</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwstjmaa-uc0pmna74</odePageId>
+          <odeBlockId>block-mwstjo94-phflvh7re</odeBlockId>
+          <odeIdeviceId>idevice-1795411324551-mavs83puj</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1795411324551-mavs83puj" data-evaluationb="false" data-evaluationid="abaf1c0e-1b3a-42d9-a8e2-5cc3c2128d8d"></div>
+            <div id="frmMainContainer-idevice-1795411324551-mavs83puj" class="form-IDevice" data-id="idevice-1795411324551-mavs83puj">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1795411324551-mavs83puj">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1795411324551-mavs83puj" style="display:none;">
+                      <button  id="frmStartGame-idevice-1795411324551-mavs83puj" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1795411324551-mavs83puj" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1795411324551-mavs83puj" > </div>
+                        <div id="frmCover-idevice-1795411324551-mavs83puj" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1795411324551-mavs83puj" class="form-results-container inline">
+                        <div id="form-score-idevice-1795411324551-mavs83puj" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1795411324551-mavs83puj" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1795411324551-mavs83puj" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1795411324551-mavs83puj" />
+                        <input id="form-button-reset-idevice-1795411324551-mavs83puj" type="button" value="Reiniciar"
+                            data-id="idevice-1795411324551-mavs83puj" class="btn btn-primary"  style="display:none" />
+                        
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer d-flex align-items-center justify-content-end mx-auto p-0 w-100"></div>
+                <div class="form-instructions"><p>Si obtuviste más de 8 puntos en la actividad estas listo(a) para contestar tu <strong>cuestionario 4 </strong>de la plataforma.</p></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1795411324551-mavs83puj","evaluation":false,"evaluationID":"abaf1c0e-1b3a-42d9-a8e2-5cc3c2128d8d","passScoreMode":"custom","passScoreCustom":8,"repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgPassScore":"Puntuación mínima necesaria para aprobar esta actividad: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba, regresa a estudiar el video para comprender mejor","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia","msgOk":"Correcto","msgKO":"Incorrecto","msgHide":"Ocultar"},"id":"idevice-1795411324551-mavs83puj","questionsRandom":true,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1795411524626-LHPJC","activityType":"selection","baseText":"<p>Es una función polinómica:</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"\\( m(x)=5x^2-9x+8 \\)"],[false,"\\( g(x)= cos(7x-6) \\)"],[false,"\\( h(x) = log(9x^2-3x-2) \\)"],[false,"\\( r(x)=9 \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795411644887-EC373","activityType":"selection","baseText":"<p>\\( h(x)=log(3x^2-9x-5) \\) es una función:</p>\n<p></p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Algebraica"],[true,"Logarítmica "],[false,"Trigonométrica"],[false,"Exponencial"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795411748752-EV46W","activityType":"selection","baseText":"<p>Una función constante es aquella que. . .</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Es aquella que esta sola"],[false,"Es aquella que se compone de otras funciones"],[true,"Contiene solo números, no contiene variables"],[false,"Es aquella que no esta definida"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795411845050-PR1UX","activityType":"selection","baseText":"<p>Es aquella que asocia a un valor (x) una pareja en (y) a través de una regla de correspondencia.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Polinomio"],[false,"Fórmula"],[false,"Ecuación"],[true,"Función"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795411950191-LXR1C","activityType":"selection","baseText":"<p>Una función por partes es aquella que esta formada . . .</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Por otras funciones "],[false,"Por sumas"],[false,"Por polinomios"],[false,"Por razones trigonométricas"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795412095987-0D1F7","activityType":"selection","baseText":"<p>Es una función constante:</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"\\( f(x)= cos x \\)"],[true,"\\( g(x)=\\frac{3}{7} \\)"],[false,"\\( h(x)= 7^{3x-9}\\)"],[false,"\\( m(x)= 3x+9 \\)"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1795412357307-39BH0","activityType":"selection","baseText":"<p>\\( h(x)=sen (7x-19 \\) es ejemplo de función:</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Función racional"],[false,"Función irracional"],[true,"Función trigonométrica"],[false,"Función constante"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"addBtnAnswers":false,"eXeIdeviceTextAfter":"<p>Si obtuviste más de 8 puntos en la actividad estas listo(a) para contestar tu <strong>cuestionario 4 </strong>de la plataforma.</p>","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
